@@ -19,5 +19,7 @@ function whileLoop(num) {
 }
 
 function doWhileLopp(arr) {
-  
+  do {
+
+  }  while (array.length > 0 && maybeTrue())
 }
