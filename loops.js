@@ -5,7 +5,8 @@ function forLoop(array) {
       array.push(bit)
       }
     else {
-      console.log("I am ${i} strange loops")
+      bit = "I am ${i} strange loops";
+      array.push(bit)
       }
   }
 }
