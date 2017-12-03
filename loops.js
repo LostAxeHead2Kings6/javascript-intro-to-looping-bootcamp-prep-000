@@ -17,3 +17,7 @@ function whileLoop(num) {
 
   return 'done' ;
 }
+
+function doWhileLopp(arr) {
+  
+}
