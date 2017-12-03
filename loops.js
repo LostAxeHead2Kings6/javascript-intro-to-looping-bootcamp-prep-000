@@ -18,8 +18,8 @@ function whileLoop(num) {
   return 'done' ;
 }
 
-function doWhileLopp(arr) {
+function doWhileLopp(array) {
   do {
-
+    array.pop
   }  while (array.length > 0 && maybeTrue())
 }
