@@ -18,6 +18,10 @@ function whileLoop(num) {
   return 'done' ;
 }
 
+function maybeTrue() {
+
+}
+
 function doWhileLopp(array) {
   do {
     array.pop
